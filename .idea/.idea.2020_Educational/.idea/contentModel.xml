@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\UnityProject\2020_Educational" t="IncludeRecursive">
+      <e p="2020_Educational.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ArtemTest.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="ClliderController.cs" t="Include" />
+          <e p="CubeController.cs" t="Include" />
+          <e p="FlappyBirds.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\kb1\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kb1\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_2020_Educational.1254511709.00" t="ExcludeRecursive" />
+  </component>
+</project>
